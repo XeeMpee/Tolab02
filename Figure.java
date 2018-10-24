@@ -1,0 +1,6 @@
+/**
+ * Figure
+ */
+public interface Figure {
+    
+}
